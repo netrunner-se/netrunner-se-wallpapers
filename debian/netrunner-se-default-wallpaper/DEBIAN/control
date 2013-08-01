@@ -1,0 +1,10 @@
+Package: netrunner-se-default-wallpaper
+Source: netrunner-se-wallpapers
+Version: 1.0.0~raring
+Architecture: all
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Installed-Size: 2961
+Section: kde
+Priority: optional
+Description: Default Wallpapers for Netrunner SE
+ This package contains the default wallpaper used by Netrunner SE.

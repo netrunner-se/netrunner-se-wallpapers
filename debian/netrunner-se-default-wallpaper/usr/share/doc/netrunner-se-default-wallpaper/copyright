@@ -1,0 +1,78 @@
+Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=135
+Name: Netrunner Wallpapers
+Source: https://github.com/simpleclone/netrunner-wallpapers
+
+Files: *
+Copyright: 2013, Leszek Lesner (see specific authors in metadata.desktop)
+License: GPL-2+
+
+Files: wallpapers-1306/Abstract - Ariya/*
+Copyright: Eshat Cakar
+License: LGPLv3
+
+Files: wallpapers-1306/Abstract - Elarun/*
+Copyright: Nuno Pinheiro
+License: LGPLv3
+
+Files: wallpapers-1306/Caledonia_Official_Wallpaper_Collection/2011sky/*
+Copyright: stormMajki <http://stormmajki.deviantart.com/>
+License: Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License
+
+Files: wallpapers-1306/Caledonia_Official_Wallpaper_Collection/Blue Dragon/*
+Copyright: Michael "Du3ky" <http://du3ky.deviantart.com/>
+License: Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License
+
+Files: wallpapers-1306/Caledonia_Official_Wallpaper_Collection/Green/*
+Copyright: makoy00 <http://makoy00.deviantart.com/>
+License: Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License
+
+Files: wallpapers-1306/Caledonia_Official_Wallpaper_Collection/Kobalto/*
+Copyright: Malcer Quaid <http://malcer.deviantart.com/>
+License: Creative Commons Attribution-ShareAlike 3.0 License
+
+Files: netrunner-wallpapers/wallpapers-1306/KDE - Aghi/*
+Copyright: Matteo Nobile
+License: LGPLv3
+
+Files: wallpapers-1306/KDE - Prato/*
+Copyright: Davide Bettio
+License: LGPLv3
+
+License: GPL-2+
+ This program is free software; you can redistribute it
+ and/or modify it under the terms of the GNU General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later
+ version.
+ .
+ This program is distributed in the hope that it will be
+ useful, but WITHOUT ANY WARRANTY; without even the implied
+ warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+ PURPOSE.  See the GNU General Public License for more
+ details.
+ .
+ You should have received a copy of the GNU General Public
+ License along with this package; if not, write to the Free
+ Software Foundation, Inc., 51 Franklin St, Fifth Floor,
+ Boston, MA  02110-1301 USA
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 2 can be found in the file
+ `/usr/share/common-licenses/GPL-2'.
+
+License: GPL-3+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems the full text of the GNU General Public License can be found
+ in the `/usr/share/common-licenses/GPL' file.

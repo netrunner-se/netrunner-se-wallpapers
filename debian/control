@@ -1,0 +1,12 @@
+Source: netrunner-se-wallpapers
+Section: kde
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.4
+ 
+Package: netrunner-se-default-wallpaper
+Architecture: all
+Depends: ${misc:Depends}
+Description: Default Wallpapers for Netrunner SE
+ This package contains the default wallpaper used by Netrunner SE.

@@ -1,0 +1,3 @@
+#/bin/bash
+
+dpkg-divert --package netrunner-se-default-wallpaper --add --rename --divert /usr/share/wallpapers/EnigmaMeettheCPU/contents/images/2560x1600.png.orig /usr/share/wallpapers/EnigmaMeettheCPU/contents/images/2560x1600.png
